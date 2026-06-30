@@ -46,6 +46,16 @@ Copy `smart-path-crop.jsx` to your Photoshop Scripts folder:
 
 MIT License - [View License](LICENSE)
 
-## Support
+---
 
-[📧 Email](mailto:gssdarm@gmail.com) | [💬 Telegram](https://t.me/ohnedan) | [👨‍💻 GitHub](https://github.com/TheMaestr-o)
+## Support & Contact
+
+For questions, feedback, or collaboration:
+
+[![Email](https://img.shields.io/badge/Email-gssdarm%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gssdarm@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40ohnedan-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ohnedan)
+[![GitHub](https://img.shields.io/badge/GitHub-TheMaestr--o-black?style=flat-square&logo=github&logoColor=white)](https://github.com/TheMaestr-o)
+
+---
+
+**Last Updated:** June 2026
