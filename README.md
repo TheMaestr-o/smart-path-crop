@@ -1,0 +1,53 @@
+# Smart Path Crop
+
+![Version](https://img.shields.io/badge/version-1.3.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Photoshop](https://img.shields.io/badge/Photoshop-CS6+-ff00ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+
+Professional batch automation script for Adobe Photoshop. Crops product images to clipping path boundaries with automatic standard canvas sizing.
+
+## Features
+
+- Automatic clipping path detection ("Path 1")
+- Batch processing with folder selection
+- Custom safety margins (default 100px)
+- Smart canvas sizing to standard dimensions
+- Zero image resampling - preserves original quality
+- Format preservation (JPG→JPG, TIF→TIF)
+- ScriptUI dialog for easy operation
+
+## Standard Canvas Sizes
+
+- 1181 × 1181 px
+- 1417 × 1417 px  
+- 2362 × 2362 px
+
+## Installation
+
+Copy `smart-path-crop.jsx` to your Photoshop Scripts folder:
+- macOS: `~/Library/Application Support/Adobe/Adobe Photoshop [VERSION]/Presets/Scripts/`
+- Windows: `C:\Program Files\Adobe\Adobe Photoshop [VERSION]\Presets\Scripts\`
+
+## Usage
+
+1. Open Photoshop
+2. File → Scripts → Browse → Select `smart-path-crop.jsx`
+3. Select source folder (images with "Path 1")
+4. Select destination folder
+5. Click "Start Batch"
+
+## Requirements
+
+- Adobe Photoshop CS6 or newer
+- Images must contain clipping path named "Path 1"
+
+## License
+
+MIT License - Free for personal and commercial use
+
+## Support
+
+Email: gssdarm@gmail.com
+Telegram: [@ohnedan](https://t.me/ohnedan)
+GitHub: [@TheMaestr-o](https://github.com/TheMaestr-o)
